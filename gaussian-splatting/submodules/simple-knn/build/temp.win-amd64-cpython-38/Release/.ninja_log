@@ -1,0 +1,4 @@
+# ninja log v7
+10	12432	7952770622648481	D:/UncGS/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/ext.obj	e491f26114334e56
+14	12896	7952770622690123	D:/UncGS/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/simple_knn.obj	45a004dd57cc49f5
+20	37707	7952770622750150	D:/UncGS/gaussian-splatting/submodules/simple-knn/build/temp.win-amd64-cpython-38/Release/spatial.obj	398277108646b50d
